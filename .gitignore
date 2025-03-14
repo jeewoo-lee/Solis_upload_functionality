@@ -1,0 +1,5 @@
+config.ini
+attachments.db
+docs
+venv
+__pycache__
